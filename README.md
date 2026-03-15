@@ -33,3 +33,16 @@ customer lifetime value view
 3️⃣ Power BI Dashboard
 
 The processed datasets were imported into Power BI to build a analytical dashboard.
+
+Page 1. Revenue and Segmentation Dashboard
+
+Total Revenue 
+Total Order
+Total Customer
+Total Product Sold
+Total Product Order
+Avg Order Value
+
+Page 2. Product Order & Revenue Insights
+
+Page 3. Retention Rate per Cohort %
